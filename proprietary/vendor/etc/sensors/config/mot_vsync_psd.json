@@ -1,0 +1,16 @@
+{
+  "config":
+  {
+    "hw_platform": ["QRD"],
+    "soc_id": ["537","663"]
+  },
+  "mot_vsync_psd":{
+    "owner": "mot_vsync_psd",
+    ".params":{
+      "owner": "mot_vsync_psd",
+      "panel_nums":{ "type": "int", "ver": "0",
+        "data": "2"
+      }
+    }
+  }
+}

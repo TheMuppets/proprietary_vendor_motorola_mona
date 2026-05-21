@@ -1,0 +1,31 @@
+{
+  "config":{
+    "hw_platform": ["HDK", "MTP", "Dragon", "Surf", "IDP", "QRD"],
+    "soc_id": ["537","663"],
+    "ro.vendor.hw.revision": ["evt1","dvt1","dvt1b"]
+  },
+  "stk3bfx_0_platform":{
+    "owner": "sns_stk3bfx",
+    ".als":{
+      "owner": "sns_stk3bfx",
+      ".lux_coefs":{
+        "owner": "sns_stk3bfx",
+        "lux_dgf":{ "type": "flt", "ver": "1",
+          "data": "0.001"
+        },
+        "ch0_coef":{ "type": "flt", "ver": "1",
+          "data": "8.537"
+        },
+        "ch1_coef":{ "type": "flt", "ver": "1",
+          "data": "112.93"
+        },
+        "ch2_coef":{ "type": "flt", "ver": "1",
+          "data": "75.884"
+        },
+        "ch3_coef":{ "type": "flt", "ver": "1",
+          "data": "-9.835"
+        }
+      }
+    }
+  }
+}
