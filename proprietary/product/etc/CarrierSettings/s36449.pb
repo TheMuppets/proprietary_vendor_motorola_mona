@@ -1,5 +1,5 @@
 
-s36449ê—à¨"û
+s36449ÿ“à¨"û
 carrier_name_stringaliv$
  carrier_supports_ss_over_ut_bool(
 carrier_ussd_method_int 

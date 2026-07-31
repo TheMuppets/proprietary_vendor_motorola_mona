@@ -1,5 +1,5 @@
 
-s24801ê—à¨0.
+s24801ÿ“à¨0.
 EMT WAP
 wap.emt.ee2217.71.32.236:8080"≠ 
 allow_merging_rtt_calls_bool( 

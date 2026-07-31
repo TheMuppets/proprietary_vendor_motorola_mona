@@ -61327,7 +61327,6 @@
         <boolean name="carrier_vt_available_bool" value="true" />
         <string name="carrier_vvm_package_name_string">com.tmobile.vvm.application</string>
         <boolean name="carrier_wfc_ims_available_bool" value="true" />
-        <boolean name="carrier_wfc_mdn_required_bool" value="true" />
         <boolean name="carrier_wfc_supports_wifi_only_bool" value="false" />
         <boolean name="check_bandwidth_fdd_bands" value="true" />
         <boolean name="com.google.android.dialer.display_wifi_calling_button_bool" value="true" />
@@ -61390,6 +61389,8 @@
         <int name="imsi_key_availability_int" value="2" />
         <string name="imsi_key_download_url_string">https://eas3.msg.t-mobile.com:8188/ses/android/getWifiImsiEncryptionCertificate</string>
         <string name="imsserviceentitlement.entitlement_server_url_string">https://ts43.eas3.msg.t-mobile.com/ts43</string>
+        <boolean name="imsserviceentitlement.show_vowifi_webview_bool" value="true" />
+        <boolean name="imsserviceentitlement.skip_wfc_activation_bool" value="true" />
         <int name="maxImageHeight" value="1944" />
         <int name="maxImageWidth" value="2592" />
         <int name="maxMessageSize" value="1048576" />

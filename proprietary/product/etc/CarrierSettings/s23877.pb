@@ -1,5 +1,5 @@
 
-s23877ê—à¨f 
+s23877ÿ“à¨f 
 Telenor InternetInternetB
 Telenor MMStelenorZhttp://mms.telenor.dkb212.88.64.8j8080"ê 
 allow_merging_rtt_calls_bool($

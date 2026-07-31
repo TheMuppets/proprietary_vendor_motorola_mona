@@ -1,5 +1,5 @@
 
-s41830ê—à¨z-
+s41830ÿ“à¨z-
 	ZAIN-GPRSinternet	BatheerJatheerPI
 Zain-MMSMMSBatheerJatheerPZhttp://mms:8002/b172.29.11.12j8080"¥
 maxImageHeightò

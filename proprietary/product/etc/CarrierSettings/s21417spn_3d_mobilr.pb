@@ -1,5 +1,5 @@
 
-s21417spn_3d_mobilrê—à¨"ó 
+s21417spn_3d_mobilrÿ“à¨"ó 
 allow_merging_rtt_calls_bool( 
 carrier_volte_available_bool( 
 ignore_rtt_mode_setting_bool(#

@@ -1,5 +1,5 @@
 
-s24801imsi_3d_248010x3ê—à¨KI
+s24801imsi_3d_248010x3ÿ“à¨KI
 Sendsend.eeZhttp://mms.emt.ee/servlets/mmsb217.71.32.82j8080"≠ 
 allow_merging_rtt_calls_bool( 
 call_barring_visibility_bool((

@@ -1,5 +1,5 @@
 
-s24681ê—à¨"ß 
+s24681ÿ“à¨"ß 
 allow_merging_rtt_calls_bool(+
 #carrier_nr_availabilities_int_array: 
 ignore_rtt_mode_setting_bool(

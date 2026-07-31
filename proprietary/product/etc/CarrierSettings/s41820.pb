@@ -1,5 +1,5 @@
 
-s41820ê—à¨ñ-
+s41820ÿ“à¨ñ-
 	ZAIN-GPRSinternet	BatheerJatheerPI
 Zain-MMSMMSBatheerJatheerPZhttp://mms:8002/b172.29.11.12j8080
 imsims

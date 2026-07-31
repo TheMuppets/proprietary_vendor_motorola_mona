@@ -1,5 +1,5 @@
 
-s21406gid1_3d_214050111ê—à¨ªK
+s21406gid1_3d_214050111ÿ“à¨ªK
 telecable Internetinternet.telecable.esB	telecableJ	telecablePl
 telecable MMSmms.telecable.esB	telecableJ	telecablePZhttp://mms.telecable.es/mms/b212.89.0.84j8080"‡ 
 allow_merging_rtt_calls_bool( 

@@ -1,5 +1,5 @@
 
-$s204043spn_3d_avantel_20_roaming_20_ê—à¨!
+$s204043spn_3d_avantel_20_roaming_20_ÿ“à¨!
 Avantellte.avantel.com.co"ú 
 allow_merging_rtt_calls_bool(*
 &always_show_emergency_alert_onoff_bool(-
