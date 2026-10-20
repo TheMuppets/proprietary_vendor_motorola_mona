@@ -29,14 +29,14 @@ IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
     <hal format="aidl">
         <name>android.hardware.biometrics.fingerprint</name>
         <version>3</version>
-        <fqname>IFingerprint/default</fqname>
+        <fqname>IFingerprint/wrapper</fqname>
     </hal>
    <hal format="aidl">
        <name>com.motorola.hardware.biometric.fingerprint</name>
        <version>2</version>
        <interface>
          <name>IMotoFingerPrint</name>
-         <instance>default</instance>
+         <instance>wrapper</instance>
        </interface>
    </hal>
 
